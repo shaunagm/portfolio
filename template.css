@@ -186,3 +186,9 @@ hr{
 	display: inline-block;
 	width: 250px;
 }
+
+#footer {
+    height:30px;
+    clear:both;
+    width:800px;
+}
