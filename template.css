@@ -131,6 +131,7 @@ hr{
 	padding:10px;
 	display:none;
 	font-size: 14px;
+    overflow:auto;
 }
 
 #Grid{
