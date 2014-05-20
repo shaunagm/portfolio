@@ -134,6 +134,11 @@ hr{
     overflow:auto;
 }
 
+#Highlight a {
+    font-weight:bold;
+    color:black;
+}
+
 #Grid{
 	width: 1080px;
 	text-align: left;
